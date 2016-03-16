@@ -23,6 +23,8 @@ And I want to get this:
 
 ## Installation
 
+You can [download it at packal.org](http://www.packal.org/workflow/src-iframe)
+
 1. Download the [latest release here](http://github.com/tgirardi/src-from-iframe/releases/latest/)
 2. Extract the zip or tar.gz file
 3. Inside the extracted folder, double click src-from-iframe.alfredworkflow
