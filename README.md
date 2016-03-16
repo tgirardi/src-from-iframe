@@ -6,9 +6,9 @@ Alfred Workflow that extracts src attribute value from iframe tag
 
 I have this in my clipboard:
 
-    ```html
-    <iframe frameborder="0" style="width:100%;height:207px" src="https://www.draw.io/?chrome=0&db=0&od=0#G0B42SiLJg-CebR0o0UFZ1cWExODQ"></iframe>
-    ```
+```html
+<iframe frameborder="0" style="width:100%;height:207px" src="https://www.draw.io/?chrome=0&db=0&od=0#G0B42SiLJg-CebR0o0UFZ1cWExODQ"></iframe>
+```
 
 And I want to get this:
 
